@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sellersdash.github.io/sd/posts/sellersdash-is-here/</loc>
+    <loc>https://sellersdash.github.io/sd/blog/sellersdash-is-here/</loc>
     <lastmod>2018-11-21T17:11:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sellersdash.github.io/sd/categories/</loc>
+    <loc>https://sellersdash.github.io/sd/blog/</loc>
+    <lastmod>2018-11-21T17:11:51+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sellersdash.github.io/sd/posts/</loc>
-    <lastmod>2018-11-21T17:11:51+00:00</lastmod>
+    <loc>https://sellersdash.github.io/sd/categories/</loc>
     <priority>0</priority>
   </url>
   

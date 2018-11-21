@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://sellersdash.github.io/sd/"
 languageCode = "en-us"
 title = "Sellers' Dash"
 theme = 'minimal'

@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "Sellers' Dash"
 theme = 'minimal'
 sectionPagesMenu = "main"
+publishDir = "docs"
